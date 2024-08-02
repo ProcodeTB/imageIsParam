@@ -272,6 +272,7 @@
             "bool": true,
             "id2": "SUV",
             "phone": "(333) 333-3333",
+            "png_url": "https://www.adobe.com/express/feature/image/remove-background/png/media_16ad2258cac6171d66942b13b8cd4839f0b6be6f3.png",
             "email": "car3@test.com",
             "MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
             "MM/dd/yyyy HH:mm": "10/06/2007 13:44"
